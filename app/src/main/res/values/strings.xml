@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">tourism</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_see">看看</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_news">新闻</string>
+    <string name="menu_use">用用</string>
+    <string name="menu_use_check_weather">查天气</string>
+    <string name="menu_use_check_subway">查公交地铁</string>
+    <string name="menu_use_tools">小工具</string>
+    <string name="menu_else">其他</string>
+    <string name="menu_else_setting">设置</string>
+    <string name="menu_else_about">关于</string>
+    <string name="fab_lab_words">文字</string>
+    <string name="fab_lab_camera">拍照</string>
+    <string name="dry" />
+    <string name="tourism">旅游通</string>
+    <string name="tip">不一样的旅游平台！！</string>
+    <string name="about_toolbar_title">关于</string>
+    <string name="about_tourism">关于tourism</string>
+    <string name="about_tourism_detail">
+        Toutism，中文名旅游通，是本人在2018年4月于海南大学本科阶段所写的入门级
+        Android app，以此作为毕业设计。
+        \n\n遵循GPL V3协议。
+        \n\n未在软件市场发布，仅做调试使用
+        \n\n作者：金煜
+        \n\n联系电话：15595770956 qq：379208600
+        \n\n感谢开发初期测试使用脚本家提供的Gank.API
+        \n\n感谢drakeet大神的MEIZHI开源项目，为我整个项目架构有了很大的支持
+        \n\n感谢和风天气的天气查询接口
+        \n\n感谢高德地图的定位接口
+        \n\n感谢HaoService数据平台的旅游资讯接口（只是一天只能查五十次并且有体验时间限制。。。）
+        \n\n感谢阿里健康品牌图标库http://iconfont.cn/collections/detail?cid=1312
+
+
+    </string>
+    <string name="about_me">关于我</string>
+    <string name="about_me_detail">本人是海南大学计算机科学与技术专业本科的一名学
+        生，一个初涉Android的技术小白
+        \n\n毕业后将继续就读于本校的软件工程硕士，继续在计算机技术的路上走下去
+        \n\n日后希望能有机会能够继续进修博士学位
+        \n\n将本软件上传至github
+        \n\n日后技术有所进步后将对其进行更多的优化甚至重构</string>
+    <string name="about_open_source">开源库</string>
+    <string name="about_open_source_detail">
+        com.android.support:appcompat-v7
+        \n\ncom.android.support:support-v4
+        \n\ncom.android.support:design
+        \n\ncom.android.support:cardview-v7
+        \n\ncom.android.support.constraint:constraint-layout
+        \n\ncom.r0adkll:slidableactivity
+        \n\ncom.squareup.retrofit2:converter-gson
+        \n\ncom.squareup.okhttp3:logging-interceptor
+        \n\ncom.squareup.okhttp3:okhttp
+        \n\ncom.squareup.okio:okio
+        \n\ncom.squareup.retrofit2:adapter-rxjava2
+        \n\ncom.squareup.retrofit2:retrofit
+        \n\nio.reactivex.rxjava2:rxandroid
+        \n\nio.reactivex.rxjava2:rxjava
+        \n\ncom.jakewharton.timber:timber
+        \n\ncom.google.code.gson:gson
+        \n\ncom.amap.api:location
+        \n\ncom.orhanobut:logger
+        \n\ncom.makeramen:roundedimageview
+        \n\ncom.github.chrisbanes:PhotoView
+        \n\ncom.github.bumptech.glide:glide
+        \n\ncom.github.bumptech.glide:gifdecoder
+        \n\ncom.github.bumptech.glide:annotations
+        \n\ncom.github.bumptech.glide:disklrucache</string>
+    <string name="app_version">Version %1$s</string>
+    <string name="unfinished">未完成</string>
+    <string name="just_load_in_wifi">仅在wifi下加载图片</string>
+    <string name="clear_cache">清理缓存</string>
+    <string name="check_update">检查新版本</string>
+    <string name="commit_question">反馈</string>
+    <string name="share_friends">分享</string>
+    <string name="contact_me">联系我</string>
+    <string name="cur_version">当前版本 %1$s</string>
+    <string name="network_connected_exception">网络连接异常，请稍后重试！</string>
+    <string name="network_socket_time_out">网络请求超时，请检查网络状态！</string>
+    <string name="network_json_syntax_exception">服务器数据异常，请稍候重试！</string>
+    <string name="network_unknown_host">当前网络不可用，请检查网络情况！</string>
+    <string name="drawer_open">抽屉打开</string>
+    <string name="drawer_close">抽屉关闭</string>
+    <string name="menu_search">查找城市</string>
+    <string name="menu_location">定位</string>
+    <string name="cityname">北京天气</string>
+    <string name="cityselect_select_city">选择城市</string>
+    <string name="cityselect_hot_city">热门城市</string>
+    <string name="cityselect_located_city">定位城市</string>
+    <string name="cityselect_hint_search_box">请输入城市名或拼音</string>
+    <string name="cityselect_nothing_found">没有搜索结果~</string>
+    <string name="cityselect_locating">正在定位…</string>
+    <string name="cityselect_located_failed">定位失败</string>
+    <string name="spot_title">北京欢乐谷</string>
+    <string name="spot_address">北京市朝阳区东四环四方桥东南角</string>
+    <string name="load_more_num">新增%1$d条%2$s！</string>
+    <string name="load_sucess">加载成功！！！！！！</string>
+    <string name="activity_splash">splash</string>
+</resources>
